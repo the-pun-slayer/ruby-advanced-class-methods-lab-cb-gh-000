@@ -13,4 +13,9 @@ class Song
   def self.create
     s=Song.new
     @@all<<self
+  end
+  
+  def
+  
+  
 end
